@@ -14,4 +14,4 @@ function arrayToHex(byteArray) {
 const str = "hello";
 const byteArray = new TextEncoder().encode(str);
 const hexString = arrayToHex(byteArray);
-console.log(hexString);
+console.log(hexString);   
